@@ -3,7 +3,7 @@ Visualising Earthquakes all around the world with an interactive map
 
 ![1-Logo](1-Logo.png)
 
-This app consists of an imported GeoJSON from the USGS
+This app consists of an imported GeoJSON from the USGS API
 
 I used leaflet to create the map. Features and properties of the map include:
 
